@@ -24,7 +24,7 @@ I am Pedro, currently a self-taught student following the OSSU study guidelines.
   <img align="center" height="30" width="40" src="https://github.com/rokobo/rokobo/blob/main/logos/hack.svg?raw=true">
 </div>
 
-## My links
+## Links and contact information
 
 + Certifications → https://rokobo.github.io/
 + LinkedIn → https://www.linkedin.com/in/pedrokobori/
