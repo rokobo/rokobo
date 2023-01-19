@@ -26,6 +26,6 @@ I am Pedro, currently a self-taught student following the OSSU study guidelines.
 
 ## Links and contact information
 
-+ Certifications → https://rokobo.github.io/
++ Certifications → https://pedrokobori.notion.site/
 + LinkedIn → https://www.linkedin.com/in/pedrokobori/
 + Discord → `(Pedro Kobori)#1739`
